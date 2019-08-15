@@ -2,6 +2,8 @@
 Arduino based True RS232 to Infrared Blaster
 Based on IRLib2 https://github.com/cyborg5/IRLib2
 
+Product info: https://www.irblaster.info/true_rs232_ir.html
+
 When power is applied the device will echo the following splash screen:
 irblaster.info RS232 IR TX 0.1
 
@@ -78,3 +80,5 @@ Example raw code transmission:
 ### Power On:
 RAW,100,3514, 1718, 458, 422, 458, 1306, 430, 450, 430, 422, 458, 422, 458, 426, 454, 426, 430, 450, 430, 450, 430, 450, 430, 426, 458, 422, 458, 422, 458, 1306, 426, 426, 458, 422, 458, 422, 458, 422, 458, 422, 430, 454, 430, 450, 430, 422, 458, 422, 458, 1306, 430, 450, 430, 450, 430, 422, 458, 426, 454, 426, 458, 422, 430, 450, 430, 450, 430, 454, 430, 1306, 426, 1306, 454, 1306, 430, 1306, 454, 1306, 430, 450, 430, 450, 430, 450, 430, 1306, 430, 1334, 426, 1306, 430, 1302, 458, 1306, 430, 450, 430, 1302, 458, 1000
 
+
+https://www.irblaster.info is a manufacture of ir repeater systems, ir blasters, ir emitters, ir receivers.  We also specialize in home and industial automation.  
