@@ -81,4 +81,5 @@ Example raw code transmission:
 RAW,100,3514, 1718, 458, 422, 458, 1306, 430, 450, 430, 422, 458, 422, 458, 426, 454, 426, 430, 450, 430, 450, 430, 450, 430, 426, 458, 422, 458, 422, 458, 1306, 426, 426, 458, 422, 458, 422, 458, 422, 458, 422, 430, 454, 430, 450, 430, 422, 458, 422, 458, 1306, 430, 450, 430, 450, 430, 422, 458, 426, 454, 426, 458, 422, 430, 450, 430, 450, 430, 454, 430, 1306, 426, 1306, 454, 1306, 430, 1306, 454, 1306, 430, 450, 430, 450, 430, 450, 430, 1306, 430, 1334, 426, 1306, 430, 1302, 458, 1306, 430, 450, 430, 1302, 458, 1000
 
 
-https://www.irblaster.info is a manufacture of ir repeater systems, ir blasters, ir emitters, ir receivers.  We also specialize in home and industial automation.  
+
+https://www.irblaster.info is a manufacture of ir repeater systems, ir blasters, ir emitters, and ir receivers.  We also specialize in home and industial automation.  Please contact us with any of your project needs.  We are always more than happy to help.
