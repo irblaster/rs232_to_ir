@@ -8,9 +8,9 @@ irblaster.info RS232 IR TX 0.1
 Once the splash screen is received, you are ready to send IR codes.
 
 IR Codes are sent with the following command set:
-<IR CODE TYPE>,<IR CODE LENGTH>,<IR CODE HEX DATA>
+\<IR CODE TYPE\>,\<IR CODE LENGTH\>,\<IR CODE HEX DATA\>
 
-The following values are acceptable for <IR CODE TPYE>
+The following values are acceptable for \<IR CODE TPYE\>
 -	NEC
 -	SONY
 -	RC5
