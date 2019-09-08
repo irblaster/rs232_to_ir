@@ -43,7 +43,7 @@ char sendRaw = 0;
 void setup() {
   Serial.begin(9600);
   while (!Serial); //delay for Leonardo
-  Serial.println ("irblaster.info RS232 IR TX 0.1");
+  Serial.println ("irblaster.info RS232 IR TX 0.2");
   }
 
 
@@ -89,7 +89,7 @@ void loop() {
 //    Serial.println("incoming_array=");
 //    Serial.println(incoming_array);
 
-    sscanf (incoming_array, "%[A-Z],%d,%lx", ir_type, &ir_len, &ir_code);
+    sscanf (incoming_array, "%[A-Z0-9],%d,%lx", ir_type, &ir_len, &ir_code);
 
 //    Serial.println(ir_type);
 //    Serial.println(ir_code);
