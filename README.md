@@ -82,4 +82,4 @@ RAW,100,3514, 1718, 458, 422, 458, 1306, 430, 450, 430, 422, 458, 422, 458, 426,
 
 
 
-https://www.irblaster.info is a manufacture of ir repeater systems, ir blasters, ir emitters, and ir receivers.  We also specialize in home and industial automation.  Please contact us with any of your project needs.  We are always more than happy to help.
+https://www.irblaster.info is a manufacture of ir repeater systems, ir blasters, ir emitters, and ir receivers.  We also specialize in home and industial automation.  Our complete line of automation products is available at https://ezmation.com  Please contact us with any of your project needs.  We are always more than happy to help.
